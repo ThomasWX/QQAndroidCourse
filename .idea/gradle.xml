@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AAC" />
+            <option value="$PROJECT_DIR$/AdvancedArch" />
+            <option value="$PROJECT_DIR$/CommonLibrary" />
+            <option value="$PROJECT_DIR$/DNAdvancedUI" />
+            <option value="$PROJECT_DIR$/DNArchitecture" />
+            <option value="$PROJECT_DIR$/DNPerformance" />
+            <option value="$PROJECT_DIR$/DNPublic" />
+            <option value="$PROJECT_DIR$/Flutter" />
+            <option value="$PROJECT_DIR$/HenCoder" />
+            <option value="$PROJECT_DIR$/Phone" />
+            <option value="$PROJECT_DIR$/SquareTechnology" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
